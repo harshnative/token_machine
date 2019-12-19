@@ -22,12 +22,13 @@ void rprint()
 	std::wcscpy(cfi.FaceName, L"Consolas"); // Choose your font
 	SetCurrentConsoleFontEx(GetStdHandle(STD_OUTPUT_HANDLE), FALSE, &cfi);
     
-		    cout<<"Enter { 0 } for exiting the program";
+		    cout<<"Enter { 0 } for exiting the program and showing the toatal sale";
 		    cout<<endl<<endl;
 		    cout<<"Enter { 1 } for existing the item rate entry";
 		    cout<<endl<<endl;
-		    cout<<"Enter { 1 } in the money give section to abort the tokens";
-		     cout<<"\n\n\nPress enter to continue - ";
+		     cout<<"Enter { 2 } for rentering the item rate entry";
+		    cout<<endl<<endl;
+		    cout<<"press enter to continue .........";
 		    getch();
 		    system("cls");
     

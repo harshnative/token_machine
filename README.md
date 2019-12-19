@@ -4,7 +4,7 @@ A token machine for the shops having a pc and a thermal printing
 
 if you are having a thermal printer and it plugged in and showing on the control panel under devices section , then just download the provided numpad and you are ready to go 
 
-we are also providing exe file , which may run on your computer 
+we are also providing exe file , which may run on your computer ( avaiable under the release section of the github , rigth above )
 
 if the exe file is not runnning then follow the following steps 
 1. download the dev c++ form the following link { https://www.bloodshed.net/devcpp.html }

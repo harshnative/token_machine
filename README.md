@@ -20,3 +20,5 @@ for any queries , you can contact me via email -
 harshnative@gmail.com                 with the mail title IMP
 
 or just post down in the comments 
+
+opne the tutorial.txt for the refrence in using the software 

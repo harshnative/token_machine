@@ -1,5 +1,8 @@
 # token_machine
 A token machine for the shops having a pc and a thermal printing 
+
+please download the exe file from the releases section 
+
 "THIS IS JUST A SIMPLE CODE, IT MAY HELP YOU ANYWAYS"
 
 if you are having a thermal printer and it plugged in and showing on the control panel under devices section , then just download the provided numpad and you are ready to go 
